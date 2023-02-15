@@ -10,4 +10,3 @@ This is the repository for the code for DeutschBlox, a publicly available iPhone
 ![ScreenShot](https://i.postimg.cc/cJPS977V/6inch-2.png)
 ![ScreenShot](https://i.postimg.cc/Jz6mJCs7/6inch-3.png)
 ![ScreenShot](https://i.postimg.cc/R0WmLpt7/6inch-4.png)
-![ScreenShot](https://i.postimg.cc/PxZkBL2N/6inch-5.png)
